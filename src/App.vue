@@ -401,7 +401,7 @@ onMounted(() => {
                 <a href="https://maelectricals-demo.netlify.app" class="project-link" target="_blank">
                   <i class="icon">🌐</i> Live Demo
                 </a>
-                <a href="https://github.com/alina/ma-electricals" class="project-link" target="_blank">
+                <a href="https://github.com/erAlinaAhsan/ma-electricals" class="project-link" target="_blank">
                   <i class="icon">💻</i> GitHub
                 </a>
               </div>
@@ -451,7 +451,7 @@ onMounted(() => {
                 <a href="https://hirfat-demo.netlify.app" class="project-link" target="_blank">
                   <i class="icon">🌐</i> Live Demo
                 </a>
-                <a href="https://github.com/alina/hirfat" class="project-link" target="_blank">
+                <a href="https://github.com/erAlinaAhsan/hirfat" class="project-link" target="_blank">
                   <i class="icon">💻</i> GitHub
                 </a>
               </div>
@@ -469,7 +469,7 @@ onMounted(() => {
                       <span></span>
                       <span></span>
                     </div>
-                    <div class="browser-url">todo-advanced.netlify.app</div>
+                    <div class="browser-url">advanced-todo-alina.netlify.app</div>
                   </div>
                   <div class="browser-content">
                     <div class="demo-content todo-demo">
@@ -501,14 +501,14 @@ onMounted(() => {
                 <a href="https://advanced-todo-alina.netlify.app" class="project-link" target="_blank">
                   <i class="icon">🌐</i> Live Demo
                 </a>
-                <a href="https://github.com/alina/advanced-todo" class="project-link" target="_blank">
+                <a href="https://github.com/erAlinaAhsan/advanced-todo" class="project-link" target="_blank">
                   <i class="icon">💻</i> GitHub
                 </a>
               </div>
             </div>
           </div>
 
-          <!-- Project 4: Portfolio Website -->
+          <!-- Project 4: Company Dashboard -->
           <div class="project-card">
             <div class="project-image">
               <div class="project-demo">
@@ -519,7 +519,157 @@ onMounted(() => {
                       <span></span>
                       <span></span>
                     </div>
-                    <div class="browser-url">alina-portfolio.netlify.app</div>
+                    <div class="browser-url">euphonious-bavarois-b78304.netlify.app</div>
+                  </div>
+                  <div class="browser-content">
+                    <div class="demo-content dashboard-demo">
+                      <div class="demo-header">📊 Company Dashboard</div>
+                      <div class="demo-metrics">
+                        <div class="metric-card">Users: 1,234</div>
+                        <div class="metric-card">Sales: $45K</div>
+                        <div class="metric-card">Growth: +12%</div>
+                      </div>
+                      <div class="demo-chart">📈 Analytics Chart</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="project-content">
+              <h3 class="project-title">Company Dashboard</h3>
+              <p class="project-description">
+                Comprehensive business dashboard with real-time analytics, user management, and performance 
+                metrics. Features interactive charts and responsive design for data visualization.
+              </p>
+              <div class="project-tech">
+                <span class="tech-tag">Vue.js</span>
+                <span class="tech-tag">JavaScript</span>
+                <span class="tech-tag">Charts.js</span>
+                <span class="tech-tag">CSS3</span>
+              </div>
+              <div class="project-links">
+                <a href="https://euphonious-bavarois-b78304.netlify.app/" class="project-link" target="_blank">
+                  <i class="icon">🌐</i> Live Demo
+                </a>
+                <a href="https://github.com/erAlinaAhsan/company-dashboard" class="project-link" target="_blank">
+                  <i class="icon">💻</i> GitHub
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <!-- Project 5: Register/Login Page -->
+          <div class="project-card">
+            <div class="project-image">
+              <div class="project-demo">
+                <div class="demo-browser">
+                  <div class="browser-header">
+                    <div class="browser-buttons">
+                      <span></span>
+                      <span></span>
+                      <span></span>
+                    </div>
+                    <div class="browser-url">zingy-gumption-9df105.netlify.app</div>
+                  </div>
+                  <div class="browser-content">
+                    <div class="demo-content auth-demo">
+                      <div class="demo-header">🔐 User Authentication</div>
+                      <div class="demo-form">
+                        <div class="form-field">📧 Email</div>
+                        <div class="form-field">🔒 Password</div>
+                        <div class="auth-button">Login</div>
+                      </div>
+                      <div class="demo-toggle">Register → Login</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="project-content">
+              <h3 class="project-title">User Authentication System</h3>
+              <p class="project-description">
+                Modern register and login page with form validation, responsive design, and smooth 
+                transitions. Features secure authentication flow and user-friendly interface.
+              </p>
+              <div class="project-tech">
+                <span class="tech-tag">HTML5</span>
+                <span class="tech-tag">CSS3</span>
+                <span class="tech-tag">JavaScript</span>
+                <span class="tech-tag">Form Validation</span>
+              </div>
+              <div class="project-links">
+                <a href="https://zingy-gumption-9df105.netlify.app/" class="project-link" target="_blank">
+                  <i class="icon">🌐</i> Live Demo
+                </a>
+                <a href="https://github.com/erAlinaAhsan/user-auth" class="project-link" target="_blank">
+                  <i class="icon">💻</i> GitHub
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <!-- Project 6: E-commerce Website -->
+          <div class="project-card">
+            <div class="project-image">
+              <div class="project-demo">
+                <div class="demo-browser">
+                  <div class="browser-header">
+                    <div class="browser-buttons">
+                      <span></span>
+                      <span></span>
+                      <span></span>
+                    </div>
+                    <div class="browser-url">leafy-sawine-0fe40b.netlify.app</div>
+                  </div>
+                  <div class="browser-content">
+                    <div class="demo-content ecommerce-demo">
+                      <div class="demo-header">🛍️ E-commerce Store</div>
+                      <div class="demo-products">
+                        <div class="product-item">Product 1</div>
+                        <div class="product-item">Product 2</div>
+                        <div class="product-item">Product 3</div>
+                      </div>
+                      <div class="demo-actions">Add to Cart 🛒</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="project-content">
+              <h3 class="project-title">E-commerce Website</h3>
+              <p class="project-description">
+                Full-featured online shopping platform with product catalog, shopping cart, and checkout 
+                process. Responsive design with modern UI and smooth user experience.
+              </p>
+              <div class="project-tech">
+                <span class="tech-tag">Vue.js</span>
+                <span class="tech-tag">JavaScript</span>
+                <span class="tech-tag">CSS3</span>
+                <span class="tech-tag">Responsive</span>
+              </div>
+              <div class="project-links">
+                <a href="https://leafy-sawine-0fe40b.netlify.app/" class="project-link" target="_blank">
+                  <i class="icon">🌐</i> Live Demo
+                </a>
+                <a href="https://github.com/erAlinaAhsan/ecommerce-website" class="project-link" target="_blank">
+                  <i class="icon">💻</i> GitHub
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <!-- Project 7: Portfolio Website -->
+          <div class="project-card">
+            <div class="project-image">
+              <div class="project-demo">
+                <div class="demo-browser">
+                  <div class="browser-header">
+                    <div class="browser-buttons">
+                      <span></span>
+                      <span></span>
+                      <span></span>
+                    </div>
+                    <div class="browser-url">erportfolio.netlify.app</div>
                   </div>
                   <div class="browser-content">
                     <div class="demo-content portfolio-demo">
@@ -548,10 +698,10 @@ onMounted(() => {
                 <span class="tech-tag">Responsive</span>
               </div>
               <div class="project-links">
-                <a href="https://alina-portfolio-demo.netlify.app" class="project-link" target="_blank">
+                <a href="https://erportfolio.netlify.app/" class="project-link" target="_blank">
                   <i class="icon">🌐</i> Live Demo
                 </a>
-                <a href="https://github.com/alina/portfolio" class="project-link" target="_blank">
+                <a href="https://github.com/erAlinaAhsan/portfolio" class="project-link" target="_blank">
                   <i class="icon">💻</i> GitHub
                 </a>
               </div>
