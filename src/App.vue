@@ -109,6 +109,17 @@ onMounted(() => {
   form.setAttribute('netlify', '');
   form.setAttribute('name', 'contact');
 });
+
+// Download CV functionality
+const downloadCV = () => {
+  const cvUrl = '/ProfessionalCV.pdf'; // PDF resume file
+  const link = document.createElement('a');
+  link.href = cvUrl;
+  link.download = 'Alina_Ahsan_CV.pdf'; // Force download with custom filename
+  document.body.appendChild(link);
+  link.click();
+  document.body.removeChild(link);
+};
 </script>
 
 <template>
@@ -155,6 +166,9 @@ onMounted(() => {
               <a href="#contact" @click="scrollTo('contact')" class="btn btn-outline">
                 Get In Touch
               </a>
+              <button @click="downloadCV" class="btn btn-secondary">
+                📄 Download CV
+              </button>
             </div>
             <div class="hero-social">
               <a href="mailto:alina.ahsan13@gmail.com" class="social-link">
