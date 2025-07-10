@@ -210,10 +210,6 @@ onMounted(() => {
                 <span class="stat-number">10+</span>
                 <span class="stat-label">Projects Completed</span>
               </div>
-              <div class="stat-item">
-                <span class="stat-number">100%</span>
-                <span class="stat-label">Client Satisfaction</span>
-              </div>
             </div>
           </div>
         </div>
@@ -812,7 +808,7 @@ onMounted(() => {
       <div class="container">
         <div class="footer-content">
           <div class="footer-text">
-            <p>© 2024 Alina Ahsan. Crafted with ❤️ and lots of ☕</p>
+            <p>© 2025 Alina Ahsan. Crafted with ❤️ and lots of ☕</p>
           </div>
           <div class="footer-links">
             <a href="mailto:alina.ahsan13@gmail.com">Email</a>
