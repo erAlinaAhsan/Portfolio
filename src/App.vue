@@ -368,57 +368,7 @@ const downloadCV = () => {
         </div>
         <div class="projects-grid">
           
-          <!-- Project 1: M.A.Electricals -->
-          <div class="project-card">
-            <div class="project-image">
-              <div class="project-demo">
-                <div class="demo-browser">
-                  <div class="browser-header">
-                    <div class="browser-buttons">
-                      <span></span>
-                      <span></span>
-                      <span></span>
-                    </div>
-                    <div class="browser-url">maelectricals.com</div>
-                  </div>
-                  <div class="browser-content">
-                    <div class="demo-content electrical-demo">
-                      <div class="demo-header">⚡ M.A.Electricals</div>
-                      <div class="demo-products">
-                        <div class="product-card">LED Lights</div>
-                        <div class="product-card">Switches</div>
-                        <div class="product-card">Cables</div>
-                      </div>
-                      <div class="demo-cart">🛒 Add to Cart</div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="project-content">
-              <h3 class="project-title">M.A.Electricals</h3>
-              <p class="project-description">
-                Modern e-commerce platform for electrical equipment with advanced inventory management, 
-                customer portal, and seamless shopping experience.
-              </p>
-              <div class="project-tech">
-                <span class="tech-tag">Vue.js</span>
-                <span class="tech-tag">Node.js</span>
-                <span class="tech-tag">MongoDB</span>
-                <span class="tech-tag">Express</span>
-              </div>
-              <div class="project-links">
-                <a href="https://maelectricals-demo.netlify.app" class="project-link" target="_blank">
-                  <i class="icon">🌐</i> Live Demo
-                </a>
-                <a href="https://github.com/erAlinaAhsan/ma-electricals" class="project-link" target="_blank">
-                  <i class="icon">💻</i> GitHub
-                </a>
-              </div>
-            </div>
-          </div>
-
-          <!-- Project 2: Hirfat -->
+          <!-- Project 1: Hirfat -->
           <div class="project-card">
             <div class="project-image">
               <div class="project-demo">
@@ -468,6 +418,56 @@ const downloadCV = () => {
             </div>
           </div>
 
+          <!-- Project 2: M.A.Electricals -->
+          <div class="project-card">
+            <div class="project-image">
+              <div class="project-demo">
+                <div class="demo-browser">
+                  <div class="browser-header">
+                    <div class="browser-buttons">
+                      <span></span>
+                      <span></span>
+                      <span></span>
+                    </div>
+                    <div class="browser-url">maelectricals.com</div>
+                  </div>
+                  <div class="browser-content">
+                    <div class="demo-content electrical-demo">
+                      <div class="demo-header">⚡ M.A.Electricals</div>
+                      <div class="demo-products">
+                        <div class="product-card">LED Lights</div>
+                        <div class="product-card">Switches</div>
+                        <div class="product-card">Cables</div>
+                      </div>
+                      <div class="demo-cart">🛒 Add to Cart</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="project-content">
+              <h3 class="project-title">M.A.Electricals <span class='maintenance-label'>(Under Maintenance)</span></h3>
+              <p class="project-description">
+                Modern e-commerce platform for electrical equipment with advanced inventory management, 
+                customer portal, and seamless shopping experience.
+              </p>
+              <div class="project-tech">
+                <span class="tech-tag">Vue.js</span>
+                <span class="tech-tag">Node.js</span>
+                <span class="tech-tag">MongoDB</span>
+                <span class="tech-tag">Express</span>
+              </div>
+              <div class="project-links">
+                <a href="https://maelectricals-demo.netlify.app" class="project-link" target="_blank">
+                  <i class="icon">🌐</i> Live Demo
+                </a>
+                <a href="https://github.com/erAlinaAhsan/ma-electricals" class="project-link" target="_blank">
+                  <i class="icon">💻</i> GitHub
+                </a>
+              </div>
+            </div>
+          </div>
+
           <!-- Project 3: Advanced Todo List -->
           <div class="project-card">
             <div class="project-image">
@@ -496,7 +496,7 @@ const downloadCV = () => {
               </div>
             </div>
             <div class="project-content">
-              <h3 class="project-title">Advanced Todo List</h3>
+              <h3 class="project-title">Advanced Todo List <span class='maintenance-label'>(Under Maintenance)</span></h3>
               <p class="project-description">
                 Feature-rich task management app with categories, priorities, due dates, progress tracking, 
                 and local storage for a complete productivity solution.
