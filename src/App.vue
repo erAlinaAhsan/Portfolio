@@ -408,7 +408,7 @@ const downloadCV = () => {
                 <span class="tech-tag">Responsive</span>
               </div>
               <div class="project-links">
-                <a href="https://hirfat-demo.netlify.app" class="project-link" target="_blank">
+                <a href="https://hirfat.netlify.app" class="project-link" target="_blank">
                   <i class="icon">🌐</i> Live Demo
                 </a>
                 <a href="https://github.com/erAlinaAhsan/hirfat" class="project-link" target="_blank">
