@@ -618,7 +618,7 @@ const downloadCV = () => {
             </div>
           </div>
 
-          <!-- Project 6: Advanced Todo List (Under Maintenance) -->
+          <!-- Project 6: Smart Todo List -->
           <div class="project-card">
             <div class="project-image">
               <div class="project-demo">
@@ -629,7 +629,7 @@ const downloadCV = () => {
                       <span></span>
                       <span></span>
                     </div>
-                    <div class="browser-url">advanced-todo-alina.netlify.app</div>
+                    <div class="browser-url">smartodolist.netlify.app</div>
                   </div>
                   <div class="browser-content">
                     <div class="demo-content todo-demo">
@@ -646,7 +646,7 @@ const downloadCV = () => {
               </div>
             </div>
             <div class="project-content">
-              <h3 class="project-title">Advanced Todo List <span class='maintenance-label'>(Under Maintenance)</span></h3>
+              <h3 class="project-title">Smart Todo List</h3>
               <p class="project-description">
                 Feature-rich task management app with categories, priorities, due dates, progress tracking, 
                 and local storage for a complete productivity solution.
@@ -658,7 +658,7 @@ const downloadCV = () => {
                 <span class="tech-tag">CSS3</span>
               </div>
               <div class="project-links">
-                <a href="https://advanced-todo-alina.netlify.app" class="project-link" target="_blank">
+                <a href="https://smartodolist.netlify.app" class="project-link" target="_blank">
                   <i class="icon">🌐</i> Live Demo
                 </a>
                 <a href="https://github.com/erAlinaAhsan/advanced-todo" class="project-link" target="_blank">
