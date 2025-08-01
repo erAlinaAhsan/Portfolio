@@ -245,7 +245,7 @@ const downloadCV = () => {
             <div class="timeline-content">
               <h3 class="timeline-title">Software Developer</h3>
               <h4 class="timeline-company">Hyperzod Technologies</h4>
-              <span class="timeline-period">Sep 2023 - Present</span>
+              <span class="timeline-period">Jan 2024 - Present</span>
               <ul class="timeline-achievements">
                 <li>Developed responsive web applications using Vue.js</li>
                 <li>Implemented cost-effective solutions reducing project expenses by 20%</li>
@@ -260,9 +260,9 @@ const downloadCV = () => {
               <div class="timeline-icon">🎓</div>
             </div>
             <div class="timeline-content">
-              <h3 class="timeline-title">Freelance Developer</h3>
-              <h4 class="timeline-company">Independent</h4>
-              <span class="timeline-period">2022 - 2023</span>
+              <h3 class="timeline-title">Intern</h3>
+              <h4 class="timeline-company">Hyperzod Technologies</h4>
+              <span class="timeline-period">Aug 2023 - Dec 2023</span>
               <ul class="timeline-achievements">
                 <li>Built custom e-commerce platforms for local businesses</li>
                 <li>Created responsive websites with modern UI/UX design</li>
